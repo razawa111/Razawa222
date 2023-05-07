@@ -1,0 +1,131 @@
+.navbarm{
+font-size: larger;
+font-family: 'Courier New', Courier, monospace;
+background-color: aqua;
+}
+.navbar-nav{
+
+margin-left: 80px;
+
+
+}
+
+
+.buttonn{
+
+margin-top: 30px;
+margin-left: 50%;
+border-radius: 120px;
+
+
+}
+
+.backimage{
+margin-top: 20px;
+width: 130vw;
+height: 100vh;
+
+}
+
+.main{
+
+    background-image: url();
+    background-size: 120vh 100vh;
+    width: 100vh;
+    height: 90vh;
+}
+
+.main h1{
+margin-left: 400%;
+padding-top: 350px;
+color: blueviolet;
+}
+
+.main h2{
+font-size: 50px;
+margin-left: 40%;
+padding-top: 30px;
+color: brown;
+}
+#photoTitle{
+margin-left: 50%;
+padding-top: 250px;
+padding-bottom: 60px;
+color: aquamarine;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: 100;
+}
+.column{
+display: flexbox;
+gap: 10px;
+flex-direction: column;
+
+}
+.im{
+max-width: 450px;
+
+}
+
+.footer img{
+
+margin-left: 200px;
+margin-top: 15%;
+
+}
+
+.footer{
+background-image: url();
+background-size: 120vw 100vw;
+width: 100vw;
+height: 100vm;
+}
+
+.btnnn{
+border-radius: 50%;
+
+margin-left: 120px;
+
+}
+
+.immm{
+margin-left: 70%;
+font-size: xx-large;
+color: antiquewhite;
+font-weight: 900;
+margin-top: -300px;
+
+
+}
+
+.col-md-3 a{
+text-decoration: none;
+
+color: rgb(red, green, blue);
+
+}
+
+.list-unstyled a:hover{
+
+    font-size: large;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
